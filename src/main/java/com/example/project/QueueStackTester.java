@@ -9,7 +9,7 @@ public class QueueStackTester {
             return;
         }
 
-        // Store the current element
+       
         T element = q.serve();
         
       
